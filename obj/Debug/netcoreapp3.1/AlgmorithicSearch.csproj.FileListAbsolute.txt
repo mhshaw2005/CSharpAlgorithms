@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\AlgmorithicSearch\bin\Debug\netcoreapp3.1\AlgmorithicSearch.exe
+C:\Users\Administrator\source\repos\AlgmorithicSearch\bin\Debug\netcoreapp3.1\AlgmorithicSearch.deps.json
+C:\Users\Administrator\source\repos\AlgmorithicSearch\bin\Debug\netcoreapp3.1\AlgmorithicSearch.runtimeconfig.json
+C:\Users\Administrator\source\repos\AlgmorithicSearch\bin\Debug\netcoreapp3.1\AlgmorithicSearch.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\AlgmorithicSearch\bin\Debug\netcoreapp3.1\AlgmorithicSearch.dll
+C:\Users\Administrator\source\repos\AlgmorithicSearch\bin\Debug\netcoreapp3.1\AlgmorithicSearch.pdb
+C:\Users\Administrator\source\repos\AlgmorithicSearch\obj\Debug\netcoreapp3.1\AlgmorithicSearch.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AlgmorithicSearch\obj\Debug\netcoreapp3.1\AlgmorithicSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AlgmorithicSearch\obj\Debug\netcoreapp3.1\AlgmorithicSearch.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AlgmorithicSearch\obj\Debug\netcoreapp3.1\AlgmorithicSearch.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AlgmorithicSearch\obj\Debug\netcoreapp3.1\AlgmorithicSearch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AlgmorithicSearch\obj\Debug\netcoreapp3.1\AlgmorithicSearch.dll
+C:\Users\Administrator\source\repos\AlgmorithicSearch\obj\Debug\netcoreapp3.1\AlgmorithicSearch.pdb
+C:\Users\Administrator\source\repos\AlgmorithicSearch\obj\Debug\netcoreapp3.1\AlgmorithicSearch.genruntimeconfig.cache
